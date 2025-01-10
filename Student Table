@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Marks Table</title>
+</head>
+<body>
+    <h1 style="text-align:center">Student Marks Table</h1>
+    <table border="1" width="100%" cellpadding="8" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Roll Number</th>
+                <th>Student Name</th>
+                <th>Subject 1</th>
+                <th>Subject 2</th>
+                <th>Subject 3</th>
+                <th>Total Marks</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>Akhila</td>
+                <td>85</td>
+                <td>78</td>
+                <td>92</td>
+                <td>255</td>
+                <td>85%</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>Asha</td>
+                <td>75</td>
+                <td>88</td>
+                <td>79</td>
+                <td>242</td>
+                <td>80.67%</td>
+            </tr>
+            <tr>
+                <td>103</td>
+                <td>Prasanna</td>
+                <td>95</td>
+                <td>89</td>
+                <td>94</td>
+                <td>278</td>
+                <td>92.67%</td>
+            </tr>
+            <tr>
+                <td>104</td>
+                <td>Pravalli</td>
+                <td>95</td>
+                <td>80</td>
+                <td>94</td>
+                <td>278</td>
+                <td>90.67%</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
