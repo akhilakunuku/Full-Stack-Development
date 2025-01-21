@@ -1,0 +1,96 @@
+<html>
+    <body>
+        <center>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzNfjQBUGwtvqgrySNAHLFiak-odkPaHBCyOloZuBkhKDwUun3wqlGQKRAZh8SDrfjw&usqp=CAU">
+        <p>Department of Computer Science and Technology</p>
+        <h3>ACADEMIC YEAR 2024-25,Even Semester</h3>
+        <h3>TIME TABLE</h3>
+        </center>
+        <style>
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+            .program-details {
+                white-space: nowrap; 
+            }
+            .program-details strong {
+                margin-right: 80px;
+            }</style>
+        
+        <div class="program-details">
+            program: <strong>B.Tech-CST</strong> Semester: <strong>IV</strong> Room No: <strong>23008</strong> w.e.f: <strong>16.12.2024</strong>
+        </div>
+        <table style="width:100%">
+            <tr>
+                <th>DAY</th>
+                <th>1</th>
+                <th>2</th>
+                <th> </th>
+                <th>3</th>
+                <th>4</th>
+                <th> </th>
+                <th>5</th>
+                <th>6</th>
+                <th>7</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>OS</td>
+                <td>MEFA</td>
+                <td rowspan="6">  Break  </td>
+                <td COLSPAN="2">CDC</td>
+                <td rowspan="6">  Lunch  </td>
+                <td>OS</td>
+                <td>DBMS</td>
+                <td>P&S</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>SE</td>
+                <td>DT&I</td>
+                <td>DBMS</td>
+                <td>P&S</td>
+                <td>OS</td>
+                <td colspan="2">CDC</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>DBMS</td>
+                <td>SF</td>
+                <td>OS</td>
+                <td>MEFA</td>
+                <td>FSD-I</td>
+                <td>P&S</td>
+                <td>SE</td>
+            </tr> 
+            <tr>
+                <td>Thursday</td>
+                <td colspan="2">OS/DBMS LAB</td>
+                <td>DBMS</td>
+                <td>P&S</td>
+                <td colspan="3">FSD-I</td>
+                <td></td>
+                <td></td>
+            </tr>  
+            <tr>
+                <td>Friday</td>
+                <td colspan="2">OS/DBMS LAB</td>
+                <td colspan="2">DT&I</td>
+                <td>SE</td>
+                <td>SS</td>
+                <td>MEFA</td>
+            </tr>  
+            <tr>
+                <td>Saturday</td>
+                <td>FSD-I</td>
+                <td>OS</td>
+                <td>MEFA</td>
+                <td>SE</td>
+                <td>DBMS</td>
+                <td COLSPAN="2">CDC</td>
+                <td></td>
+            </tr>  
+        </table>
+    </body>
+</html>
